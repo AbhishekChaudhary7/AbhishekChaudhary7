@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekChaudhary
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistics, Machine Learning and other cool stuffs. 
-- 💞️ I’m looking to collaborate on any project related to Data Science stream.
+- 🌱 I’m currently learning Statistics, Machine Learning, tensorflow and other cool stuffs. 
+- 💞️ I’m looking to collaborate on any project related to Data Science domain.
 - 📫 How to reach me - abhishekac1995@gmail.com
 
 <!---
